@@ -1,0 +1,10 @@
+LIVE NETWORK IDS - SESSION SUMMARY
+Start time: 2026-06-29T12:13:09
+End time: 2026-06-29T12:14:09
+Total packets observed: 8888
+Total alerts triggered: 53
+
+  Traffic Spike: 42
+  Port Scan: 8
+  SYN Flood: 1
+  Ping Flood: 2

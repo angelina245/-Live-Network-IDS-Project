@@ -1,0 +1,54 @@
+time,category,severity,src_ip,detail
+2026-06-29T12:13:19,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:20,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:22,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:22,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:22,Port Scan,HIGH,192.168.0.42,15 distinct ports probed in last 5s
+2026-06-29T12:13:22,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:23,Port Scan,HIGH,192.168.0.1,15 distinct ports probed in last 5s
+2026-06-29T12:13:23,Port Scan,HIGH,192.168.0.42,15 distinct ports probed in last 5s
+2026-06-29T12:13:23,Port Scan,HIGH,192.168.0.1,15 distinct ports probed in last 5s
+2026-06-29T12:13:23,SYN Flood,CRITICAL,192.168.0.42,40 SYN packets in last 5s
+2026-06-29T12:13:24,Port Scan,HIGH,192.168.0.42,15 distinct ports probed in last 5s
+2026-06-29T12:13:24,Port Scan,HIGH,192.168.0.1,15 distinct ports probed in last 5s
+2026-06-29T12:13:24,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:24,Port Scan,HIGH,192.168.0.42,15 distinct ports probed in last 5s
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Port Scan,HIGH,192.168.0.1,15 distinct ports probed in last 5s
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:25,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:27,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:27,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:28,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:29,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:29,Ping Flood,HIGH,192.168.0.42,30 ICMP packets in last 5s
+2026-06-29T12:13:29,Ping Flood,HIGH,192.168.0.1,30 ICMP packets in last 5s
+2026-06-29T12:13:29,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:29,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:29,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:29,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:29,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
+2026-06-29T12:13:29,Traffic Spike,MEDIUM,multiple sources,201 packets in last 5s (possible DoS)
